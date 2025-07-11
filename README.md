@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning native android development
 - 💞️ I’m looking to collaborate on projects based on application development
-- 📫 connect with me via my personal mail : shivam16yadav16@gmail.com
+- 📫 connect with me via my personal mail
 
 <!---
 shivamtechstack/shivamtechstack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
